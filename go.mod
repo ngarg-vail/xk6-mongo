@@ -39,3 +39,5 @@ require (
 	golang.org/x/time v0.3.0 // indirect
 	gopkg.in/guregu/null.v3 v3.5.0 // indirect
 )
+
+replace github.com/GhMartingit/xk6-mongo => github.com/ngarg-vail/xk6-mongo latest
